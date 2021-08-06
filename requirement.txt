@@ -3,3 +3,6 @@ Emoji
 Text Option
 Dark Mode
 Video
+Payment
+Debit
+credit
